@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 """
-Jonathan Flessner, Chris Sanford, Erin Marshall
+Jonathan Flessner
 Group 14
 5-December-2014
 Travelling Salesman Problem
